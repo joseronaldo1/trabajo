@@ -1,11 +1,11 @@
-<<<<<<< HEAD
+
 *{
     margin: 0;
     padding: 0;
 }
 body h1{
     font-family: 'Times New Roman', Times, serif;
-     color: white;
+     color: rgb(240, 58, 3);
      display: flex;
     justify-content: center; 
     font-family: fuenteadd;
@@ -14,14 +14,14 @@ body h1{
 body p{
     font-size: 1.5em;
     font-family: 'Times New Roman', Times, serif;
-color: white;
+color: rgb(85, 1, 1);
 display: flex;
-justify-content: center;
+justify-content: center;s
 font-family: fuenteadd;
 }
 body ol{
     font-family: 'Times New Roman', Times, serif;
-    color: goldenrod;
+    color: rgb(58, 43, 5);
     display: flex;
     justify-content: center;
     font-family: fuenteadd;
@@ -47,3 +47,4 @@ margin: 0 auto;  /* para que se centre sin necesidad de margin-position */
 @font-face {
     font-family: fuenteadd;/* se coloca el nombre q quiera */
     src: url(../fonts/Sketching\ Universe.otf);
+}
